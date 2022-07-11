@@ -2,7 +2,7 @@
 ***Nuclear PUBG Mobile Cheat!***  
 > Simple yet effective PUBG mobile cheat, Compatible with gameloop, LDPLAYER and bluestacks emulators!  Written in C++ and C# Undetected.  
 
-Features:  
+*Features:*  
 * ESP
 * Weapon ESP
 * Aimbot *
